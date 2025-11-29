@@ -1,6 +1,3 @@
-Here is the complete `README.md` file in a single block, ready to copy and paste.
-
-````markdown
 # 🛡️ Log Audit & Blacklist Cross-Referencer
 
 ## Overview
@@ -93,8 +90,3 @@ Contributions are welcome\! Please fork the repository and submit a pull request
 ## 📄 License
 
 This project is open-source and available under the MIT License.
-
-```
-
-Would you like me to create the `requirements.txt` file content for you as well?
-```
