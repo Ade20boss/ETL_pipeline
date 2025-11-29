@@ -38,8 +38,8 @@ The tool demonstrates an **ETL (Extract, Transform, Load)** pipeline approach us
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/yourusername/audit-cross-referencer.git](https://github.com/yourusername/audit-cross-referencer.git)
-    cd audit-cross-referencer
+    git clone [https://github.com/Ade20boss/ETL_pipeline.git](https://github.com/Ade20boss/ETL_pipeline.git)
+    cd ETL_pipeline
     ```
 
 2.  **Install dependencies:**
