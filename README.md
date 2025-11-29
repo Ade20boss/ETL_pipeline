@@ -38,7 +38,7 @@ The tool demonstrates an **ETL (Extract, Transform, Load)** pipeline approach us
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/Ade20boss/ETL_pipeline.git](https://github.com/Ade20boss/ETL_pipeline.git)
+    git clonerepository
     cd ETL_pipeline
     ```
 
